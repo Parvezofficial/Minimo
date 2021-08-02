@@ -1,0 +1,440 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header section start */
+
+.min{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+}
+
+.logo{
+    width: 20%;
+    margin-top: 16px;
+    float: left;
+}
+
+nav{
+
+width: 78%;
+
+margin-top: 30px;
+
+float: right;
+}
+
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: right;
+
+padding-left: 139px;
+} 
+
+nav ul li a{
+
+text-decoration: none;
+
+font-size: 16px;
+}
+
+nav ul li a:hover{
+    border-bottom:2px solid black;
+}
+
+
+/* Header section start */
+/* Features section start */
+.features_img{
+    
+width: 90%;
+    
+margin-left: 5%;
+    
+margin-top: 0px;
+}
+.features_img img{
+
+width: 100%;
+
+margin-top: 45px;
+}
+.features_img a img:hover{
+    border-bottom: 2px solid black;
+}
+
+/* Features section start */
+/* Article section start */
+article{
+    
+width: 70%;
+    
+text-align: center;
+    
+margin-top: 39px;
+    
+margin-left: 15%;
+}
+article p{
+
+text-align: left;
+
+font-size: 15px;
+
+color: #D6D7D0;
+}
+.paragraph{
+
+text-align: left;
+
+margin-top: 25px;
+
+color: #636363;
+}
+.paragraph-2{
+
+margin-top: 25px;
+
+color: #878787;
+}
+.paragraph-3{
+
+margin-top: 34px;
+}
+
+/* Article section start */
+/* Grid content start */
+
+.box_content{
+
+width: 70%;
+
+margin-left: 15%;
+
+margin-top: 100px;
+}
+.box-1{
+
+width: 47%;
+
+float: left;
+}
+.box-1 img{
+
+width: 100%;
+}
+.left{
+
+margin-top: 15px;
+
+color: #D6D7D0;
+}
+.box-1 h1{
+
+font-size: 25px;
+
+color: #636363;
+
+margin-top: 15px;
+}
+
+.right{
+
+margin-top: 15px;
+
+color: #878787;
+}
+
+
+
+
+.box-2{
+    
+width: 47%;
+    
+float: right;
+}
+.box-2 img{
+
+width: 100%;
+}
+.in{
+
+margin-top: 15px;
+
+color: #D6D7D0;
+}
+
+.box-2 h1{font-size: 25px;margin-top: 15px;color: #636363;}
+
+.out{
+
+color: #878787;
+
+margin-top: 15px;
+}
+
+
+
+
+.grid_content{
+    width: 70%;
+    overflow: hidden;
+    margin-left: 15%;
+    margin-bottom: 95px;
+}
+.grid_1{
+    width: 47%;
+    float: left;
+}
+.grid_1 img{
+    width: 100%;
+    margin-top: 100px;
+}
+.big{
+    margin-top: 15px;
+    color: #D6D7D0;
+}
+.grid_1 h1{
+    font-size: 25px;
+    color: #636363;
+    margin-top: 15px;
+}
+.small{
+    margin-top: 15px;
+    color: #878787;
+}
+
+
+
+
+.grid_2{
+    width: 47%;
+    float: right;
+}
+.grid_2 img{
+    width: 100%;
+    margin-top: 100px;
+}
+.long{
+    margin-top: 15px;
+    color: #D6D7D0;
+}
+.grid_2 h1{
+    font-size: 25px;
+    margin-top: 15px;
+    color: #636363;
+}
+.short{
+    color: #878787;
+    margin-top: 15px;
+}
+
+/* Grid content end */
+/* Newsletter section start */
+
+.sub{
+
+text-align: center;
+
+height: 280px;
+
+background-color: #F0F0F0;
+
+padding: 18px;
+}
+
+.demo{
+    padding-top: 48px;
+    color: #636363;
+}
+.letter{
+    
+margin-top: 54px;
+}
+.letter input{
+
+border: none;
+
+width: 27%;
+
+border-bottom: 1px solid;
+
+font-size: 18px;
+
+background-color: #F0F0F0;
+
+color: #878787;
+}
+
+/* Newsletter section end */
+/* Menu section start */
+.menu{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 100px;
+    overflow:hidden;
+    margin-bottom: 100px;
+}
+.menu-1{
+    width: 47%;
+    float: left;
+}
+.menu-1 img{
+    width: 100%;
+    margin-top: 100px;
+}
+.var-1{
+    margin-top: 15px;
+    color: #D6D7D0;
+}
+.var-2{
+    color: #878787;
+    margin-top: 15px;
+}
+.ip{
+    color: #636363;
+}
+
+
+
+.menu-2{
+    width: 47%;
+    float: right;
+}
+.menu-2 img{
+    width: 100%;
+    margin-top: 100px;
+}
+.inline{
+    margin-top: 15px;
+    color: #D6D7D0;
+}
+.outline{
+    margin-top: 15px;
+    color: #878787;
+}
+.iq{
+    color: #636363;
+}
+
+/* Menu section start */
+/* Button section start */
+.sub-button{
+
+width: 100%;
+
+margin-bottom: 296px;
+}
+
+button{
+    display: block;
+    position: absolute;
+    margin-left: 46%;
+    padding: 12px;
+    width: 135px;
+    border: 1px solid #878787;
+    color: #878787;
+    font-size: 16px;
+}
+button:hover{
+    background-color: #FFFFFF;    
+}
+button h3{
+    width: 100%;
+    font-size: 17px;
+}
+
+/* Button section end */
+/* Footer section start */
+footer{
+    background-color: #F0F0F0;
+    height: 188px;
+}
+.lorem{
+    
+width: 80%;
+    
+margin-left: 10%;
+}
+
+.lig{
+
+width: 30%;
+
+float: left;
+
+margin-top: 81px;
+
+overflow: hidden;
+}
+.uv{
+
+float: left;
+}
+.vu{
+
+float: left;
+
+margin-left: 30px;
+}
+
+.av{float: right;margin-top: 91px;}
+
+.kn{
+
+list-style: none;
+
+overflow: hidden;
+}
+
+
+
+.c{
+
+float: left;
+}
+.c1{
+
+float: right;
+
+padding-left: 10px;
+
+font-size: 18px;
+}
+
+.c1:hover{
+    color: #1773EA;
+}
+.c2{
+
+float: right;
+
+padding-left: 10px;
+
+font-size: 18px;
+}
+.c2:hover{
+    color: #1C9CEA;
+}
+.c3{
+
+float: right;
+
+padding-left: 30px;
+
+font-size: 18px;
+}
+.c3:hover{
+    color: #E82C01;
+}
+/* Footer section end */
